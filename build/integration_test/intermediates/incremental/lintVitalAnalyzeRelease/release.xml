@@ -1,0 +1,32 @@
+<variant
+    name="release"
+    package="dev.flutter.integration_test"
+    minSdkVersion="21"
+    targetSdkVersion="21"
+    mergedManifest="/Users/apple/StudioProjects/asset_vantage/build/integration_test/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    proguardFiles="/Users/apple/StudioProjects/asset_vantage/build/integration_test/intermediates/default_proguard_files/global/proguard-android.txt-8.5.2"
+    consumerProguardFiles="lib-proguard-rules.txt"
+    partialResultsDir="/Users/apple/StudioProjects/asset_vantage/build/integration_test/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+    desugaredMethodsFiles="/Users/apple/.gradle/caches/8.9/transforms/00f58415102ab859fc403df85a01a9dc/transformed/D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/release/java:src/main/kotlin:src/release/kotlin"
+        resDirectories="src/main/res:src/release/res"
+        assetsDirectories="src/main/assets:src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="/Users/apple/StudioProjects/asset_vantage/build/integration_test/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/apple/StudioProjects/asset_vantage/build/integration_test/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      type="MAIN"
+      applicationId="dev.flutter.integration_test"
+      generatedSourceFolders="/Users/apple/StudioProjects/asset_vantage/build/integration_test/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/Users/apple/StudioProjects/asset_vantage/build/integration_test/generated/res/resValues/release"
+      desugaredMethodsFiles="/Users/apple/.gradle/caches/8.9/transforms/00f58415102ab859fc403df85a01a9dc/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

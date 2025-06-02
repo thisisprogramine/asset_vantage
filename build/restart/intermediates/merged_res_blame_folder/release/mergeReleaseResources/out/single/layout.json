@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "app.farmako.restart-release-25:/layout/ime_secondary_split_test_activity.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "app.farmako.restart-release-25:/layout/notification_template_part_time.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "app.farmako.restart-release-25:/layout/ime_base_split_test_activity.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "app.farmako.restart-release-25:/layout/custom_dialog.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "app.farmako.restart-release-25:/layout/notification_template_part_chronometer.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/layout/notification_template_part_chronometer.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "app.farmako.restart-release-25:/layout-v21/notification_template_icon_group.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "app.farmako.restart-release-25:/layout-v21/notification_action_tombstone.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "app.farmako.restart-release-25:/layout-v21/notification_action.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "app.farmako.restart-release-25:/layout-v21/notification_template_custom_big.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/layout-v21/notification_template_custom_big.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "app.farmako.restart-release-25:/drawable-anydpi-v21/ic_call_answer_low.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/drawable-anydpi-v21/ic_call_answer_low.xml"
+    },
+    {
+        "merged": "app.farmako.restart-release-25:/drawable-anydpi-v21/ic_call_answer.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/drawable-anydpi-v21/ic_call_answer.xml"
+    },
+    {
+        "merged": "app.farmako.restart-release-25:/drawable-anydpi-v21/ic_call_decline_low.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/drawable-anydpi-v21/ic_call_decline_low.xml"
+    },
+    {
+        "merged": "app.farmako.restart-release-25:/drawable-anydpi-v21/ic_call_decline.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/drawable-anydpi-v21/ic_call_decline.xml"
+    },
+    {
+        "merged": "app.farmako.restart-release-25:/drawable-anydpi-v21/ic_call_answer_video.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/drawable-anydpi-v21/ic_call_answer_video.xml"
+    },
+    {
+        "merged": "app.farmako.restart-release-25:/drawable-anydpi-v21/ic_call_answer_video_low.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/drawable-anydpi-v21/ic_call_answer_video_low.xml"
+    }
+]

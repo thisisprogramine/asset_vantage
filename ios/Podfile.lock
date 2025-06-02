@@ -1,0 +1,127 @@
+PODS:
+  - connectivity_plus (0.0.1):
+    - Flutter
+    - ReachabilitySwift
+  - file_saver (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_exit_app (1.1.4):
+    - Flutter
+  - fluttertoast (0.0.2):
+    - Flutter
+  - image_picker_ios (0.0.1):
+    - Flutter
+  - integration_test (0.0.1):
+    - Flutter
+  - local_auth_darwin (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - newrelic_mobile (1.1.2):
+    - Flutter
+    - NewRelicAgent (~> 7.5.2)
+  - NewRelicAgent (7.5.4)
+  - open_filex (0.0.2):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - ReachabilitySwift (5.2.4)
+  - restart (1.0.0):
+    - Flutter
+  - restart_app (0.0.1):
+    - Flutter
+  - share_plus (0.0.1):
+    - Flutter
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - sqflite (0.0.3):
+    - Flutter
+    - FlutterMacOS
+  - url_launcher_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - connectivity_plus (from `.symlinks/plugins/connectivity_plus/ios`)
+  - file_saver (from `.symlinks/plugins/file_saver/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_exit_app (from `.symlinks/plugins/flutter_exit_app/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - local_auth_darwin (from `.symlinks/plugins/local_auth_darwin/darwin`)
+  - newrelic_mobile (from `.symlinks/plugins/newrelic_mobile/ios`)
+  - open_filex (from `.symlinks/plugins/open_filex/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - restart (from `.symlinks/plugins/restart/ios`)
+  - restart_app (from `.symlinks/plugins/restart_app/ios`)
+  - share_plus (from `.symlinks/plugins/share_plus/ios`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
+  - sqflite (from `.symlinks/plugins/sqflite/darwin`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+
+SPEC REPOS:
+  trunk:
+    - NewRelicAgent
+    - ReachabilitySwift
+
+EXTERNAL SOURCES:
+  connectivity_plus:
+    :path: ".symlinks/plugins/connectivity_plus/ios"
+  file_saver:
+    :path: ".symlinks/plugins/file_saver/ios"
+  Flutter:
+    :path: Flutter
+  flutter_exit_app:
+    :path: ".symlinks/plugins/flutter_exit_app/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  image_picker_ios:
+    :path: ".symlinks/plugins/image_picker_ios/ios"
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  local_auth_darwin:
+    :path: ".symlinks/plugins/local_auth_darwin/darwin"
+  newrelic_mobile:
+    :path: ".symlinks/plugins/newrelic_mobile/ios"
+  open_filex:
+    :path: ".symlinks/plugins/open_filex/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  restart:
+    :path: ".symlinks/plugins/restart/ios"
+  restart_app:
+    :path: ".symlinks/plugins/restart_app/ios"
+  share_plus:
+    :path: ".symlinks/plugins/share_plus/ios"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/darwin"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+
+SPEC CHECKSUMS:
+  connectivity_plus: 4d5101c5877bedcda6cd1ccb825307911667d6b0
+  file_saver: 6cdbcddd690cb02b0c1a0c225b37cd805c2bf8b6
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_exit_app: 6958fed84b2c563b034e147ec23e30db0112eb64
+  fluttertoast: 2c67e14dce98bbdb200df9e1acf610d7a6264ea1
+  image_picker_ios: 7fe1ff8e34c1790d6fff70a32484959f563a928a
+  integration_test: 4a889634ef21a45d28d50d622cf412dc6d9f586e
+  local_auth_darwin: 553ce4f9b16d3fdfeafce9cf042e7c9f77c1c391
+  newrelic_mobile: 900aa633c7104dd148215ad15c303863c7d8822b
+  NewRelicAgent: b9940d0a025529257f4eb3436c060b4d482387c0
+  open_filex: 432f3cd11432da3e39f47fcc0df2b1603854eff1
+  path_provider_foundation: 080d55be775b7414fd5a5ef3ac137b97b097e564
+  ReachabilitySwift: 32793e867593cfc1177f5d16491e3a197d2fccda
+  restart: 0a9ff574386d99ccb0a2eb60c3aa0a086ff0ea5a
+  restart_app: 9cda5378aacc5000e3f66ee76a9201534e7d3ecf
+  share_plus: de6030e33b4e106470e09322d87cf2a4258d2d1d
+  shared_preferences_foundation: 9e1978ff2562383bd5676f64ec4e9aa8fa06a6f7
+  sqflite: c35dad70033b8862124f8337cc994a809fcd9fa3
+  url_launcher_ios: 694010445543906933d732453a59da0a173ae33d
+
+PODFILE CHECKSUM: 127eb9dfa21e443057c4a6e9fbeafafef21bab4d
+
+COCOAPODS: 1.16.2

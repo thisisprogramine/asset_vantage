@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "app.farmako.restart-release-25:/drawable/notification_tile_bg.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "app.farmako.restart-release-25:/drawable/notification_icon_background.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "app.farmako.restart-release-25:/drawable/notification_bg_low.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "app.farmako.restart-release-25:/drawable/notification_bg.xml",
+        "source": "app.farmako.restart-core-1.13.1-8:/drawable/notification_bg.xml"
+    }
+]

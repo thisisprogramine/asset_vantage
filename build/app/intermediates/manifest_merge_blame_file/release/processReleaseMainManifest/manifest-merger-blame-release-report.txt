@@ -1,0 +1,368 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.assetVantagePune.support"
+4    android:versionCode="127"
+5    android:versionName="06.14.07" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:5:5-66
+11-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:6:5-78
+12-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.VIBRATE" />
+13-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:7:5-66
+13-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:7:22-63
+14    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+14-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:8:5-71
+14-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:8:22-69
+15    <!-- <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/> -->
+16    <!-- <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/> -->
+17
+18
+19    <!-- Provide required visibility configuration for API level 30 and above -->
+20    <queries>
+20-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:13:5-28:15
+21
+22        <!-- If your app checks for SMS support -->
+23        <intent>
+23-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:15:9-18:18
+24            <action android:name="android.intent.action.VIEW" />
+24-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:16:13-65
+24-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:16:21-62
+25
+26            <data android:scheme="sms" />
+26-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:17:13-42
+26-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:17:19-39
+27        </intent>
+28        <intent>
+28-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:19:9-22:18
+29            <action android:name="android.intent.action.VIEW" />
+29-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:16:13-65
+29-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:16:21-62
+30
+31            <data android:scheme="mailto" />
+31-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:17:13-42
+31-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:17:19-39
+32        </intent>
+33        <!-- If your app checks for call support -->
+34        <intent>
+34-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:24:9-27:18
+35            <action android:name="android.intent.action.VIEW" />
+35-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:16:13-65
+35-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:16:21-62
+36
+37            <data android:scheme="tel" />
+37-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:17:13-42
+37-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:17:19-39
+38        </intent>
+39    </queries>
+40
+41    <uses-permission
+41-->[:open_filex] /Users/apple/StudioProjects/asset_vantage/build/open_filex/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:5-10:38
+42        android:name="android.permission.READ_EXTERNAL_STORAGE"
+42-->[:open_filex] /Users/apple/StudioProjects/asset_vantage/build/open_filex/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:9-64
+43        android:maxSdkVersion="32" />
+43-->[:open_filex] /Users/apple/StudioProjects/asset_vantage/build/open_filex/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:9-35
+44    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+44-->[:open_filex] /Users/apple/StudioProjects/asset_vantage/build/open_filex/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:5-76
+44-->[:open_filex] /Users/apple/StudioProjects/asset_vantage/build/open_filex/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:22-73
+45    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+45-->[:open_filex] /Users/apple/StudioProjects/asset_vantage/build/open_filex/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:12:5-75
+45-->[:open_filex] /Users/apple/StudioProjects/asset_vantage/build/open_filex/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:12:22-72
+46    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" /> <!-- suppress DeprecatedClassUsageInspection -->
+46-->[:open_filex] /Users/apple/StudioProjects/asset_vantage/build/open_filex/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:5-75
+46-->[:open_filex] /Users/apple/StudioProjects/asset_vantage/build/open_filex/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:22-72
+47    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+47-->[androidx.biometric:biometric:1.1.0] /Users/apple/.gradle/caches/8.9/transforms/47aabe08b22ae75cbd1962fc8bef1d88/transformed/biometric-1.1.0/AndroidManifest.xml:27:5-74
+47-->[androidx.biometric:biometric:1.1.0] /Users/apple/.gradle/caches/8.9/transforms/47aabe08b22ae75cbd1962fc8bef1d88/transformed/biometric-1.1.0/AndroidManifest.xml:27:22-71
+48
+49    <permission
+49-->[androidx.core:core:1.13.1] /Users/apple/.gradle/caches/8.9/transforms/802a72c7eb9d54b7b486d9c682600cc8/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+50        android:name="com.assetVantagePune.support.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+50-->[androidx.core:core:1.13.1] /Users/apple/.gradle/caches/8.9/transforms/802a72c7eb9d54b7b486d9c682600cc8/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+51        android:protectionLevel="signature" />
+51-->[androidx.core:core:1.13.1] /Users/apple/.gradle/caches/8.9/transforms/802a72c7eb9d54b7b486d9c682600cc8/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+52
+53    <uses-permission android:name="com.assetVantagePune.support.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+53-->[androidx.core:core:1.13.1] /Users/apple/.gradle/caches/8.9/transforms/802a72c7eb9d54b7b486d9c682600cc8/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+53-->[androidx.core:core:1.13.1] /Users/apple/.gradle/caches/8.9/transforms/802a72c7eb9d54b7b486d9c682600cc8/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+54
+55    <application
+56        android:name="android.app.Application"
+56-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:32:9-42
+57        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+57-->[androidx.core:core:1.13.1] /Users/apple/.gradle/caches/8.9/transforms/802a72c7eb9d54b7b486d9c682600cc8/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+58        android:extractNativeLibs="false"
+59        android:icon="@mipmap/ic_launcher"
+59-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:33:9-43
+60        android:label="AV PRO" >
+60-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:31:9-31
+61       android:requestLegacyExternalStorage="true"
+62        <activity
+62-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:36:8-57:19
+63            android:name="com.assetVantagePune.support.MainActivity"
+63-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:37:13-41
+64            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+64-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:41:13-163
+65            android:exported="true"
+65-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:38:13-36
+66            android:hardwareAccelerated="true"
+66-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:42:13-47
+67            android:launchMode="singleTop"
+67-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:39:13-43
+68            android:theme="@style/LaunchTheme"
+68-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:40:13-47
+69            android:windowSoftInputMode="adjustResize" >
+69-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:43:13-55
+70
+71            <!--
+72                 Specifies an Android theme to apply to this Activity as soon as
+73                 the Android process has started. This theme is visible to the user
+74                 while the Flutter UI initializes. After that, this theme continues
+75                 to determine the Window background behind the Flutter UI.
+76            -->
+77            <meta-data
+77-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:48:13-51:17
+78                android:name="io.flutter.embedding.android.NormalTheme"
+78-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:49:15-70
+79                android:resource="@style/NormalTheme" />
+79-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:50:15-52
+80
+81            <intent-filter>
+81-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:52:13-55:29
+82                <action android:name="android.intent.action.MAIN" />
+82-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:53:17-68
+82-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:53:25-66
+83
+84                <category android:name="android.intent.category.LAUNCHER" />
+84-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:54:17-76
+84-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:54:27-74
+85            </intent-filter>
+86        </activity>
+87        <activity
+87-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:59:8-62:70
+88            android:name="com.yalantis.ucrop.UCropActivity"
+88-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:60:12-59
+89            android:screenOrientation="portrait"
+89-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:61:12-48
+90            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+90-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:62:12-68
+91
+92        <!--
+93             Don't delete the meta-data below.
+94             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+95        -->
+96        <meta-data
+96-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:66:9-68:33
+97            android:name="flutterEmbedding"
+97-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:67:13-44
+98            android:value="2" />
+98-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:68:13-30
+99
+100        <provider
+101            android:name="androidx.core.content.FileProvider"
+101-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:70:12-61
+102            android:authorities="com.assetVantagePune.support.fileProvider"
+102-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:71:12-63
+103            android:exported="false"
+103-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:72:12-36
+104            android:grantUriPermissions="true" >
+104-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:73:12-46
+105            <meta-data
+105-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:75:12-78:51
+106                android:name="android.support.FILE_PROVIDER_PATHS"
+106-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:76:16-66
+107                android:resource="@xml/filepaths" />
+107-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:77:16-49
+108        </provider>
+109        <provider
+109-->[:image_picker_android] /Users/apple/StudioProjects/asset_vantage/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:9-17:20
+110            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+110-->[:image_picker_android] /Users/apple/StudioProjects/asset_vantage/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:13-82
+111            android:authorities="com.assetVantagePune.support.flutter.image_provider"
+111-->[:image_picker_android] /Users/apple/StudioProjects/asset_vantage/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:13-74
+112            android:exported="false"
+112-->[:image_picker_android] /Users/apple/StudioProjects/asset_vantage/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:12:13-37
+113            android:grantUriPermissions="true" >
+113-->[:image_picker_android] /Users/apple/StudioProjects/asset_vantage/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:13-47
+114            <meta-data
+114-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:75:12-78:51
+115                android:name="android.support.FILE_PROVIDER_PATHS"
+115-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:76:16-66
+116                android:resource="@xml/flutter_image_picker_file_paths" />
+116-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:77:16-49
+117        </provider> <!-- Trigger Google Play services to install the backported photo picker module. -->
+118        <service
+118-->[:image_picker_android] /Users/apple/StudioProjects/asset_vantage/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:19:9-31:19
+119            android:name="com.google.android.gms.metadata.ModuleDependencies"
+119-->[:image_picker_android] /Users/apple/StudioProjects/asset_vantage/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:20:13-78
+120            android:enabled="false"
+120-->[:image_picker_android] /Users/apple/StudioProjects/asset_vantage/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:21:13-36
+121            android:exported="false" >
+121-->[:image_picker_android] /Users/apple/StudioProjects/asset_vantage/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:22:13-37
+122            <intent-filter>
+122-->[:image_picker_android] /Users/apple/StudioProjects/asset_vantage/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:24:13-26:29
+123                <action android:name="com.google.android.gms.metadata.MODULE_DEPENDENCIES" />
+123-->[:image_picker_android] /Users/apple/StudioProjects/asset_vantage/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:25:17-94
+123-->[:image_picker_android] /Users/apple/StudioProjects/asset_vantage/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:25:25-91
+124            </intent-filter>
+125
+126            <meta-data
+126-->[:image_picker_android] /Users/apple/StudioProjects/asset_vantage/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:28:13-30:36
+127                android:name="photopicker_activity:0:required"
+127-->[:image_picker_android] /Users/apple/StudioProjects/asset_vantage/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:29:17-63
+128                android:value="" />
+128-->[:image_picker_android] /Users/apple/StudioProjects/asset_vantage/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:30:17-33
+129        </service>
+130
+131        <provider
+131-->[:open_filex] /Users/apple/StudioProjects/asset_vantage/build/open_filex/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:16:9-25:20
+132            android:name="com.crazecoder.openfile.FileProvider"
+132-->[:open_filex] /Users/apple/StudioProjects/asset_vantage/build/open_filex/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:17:13-64
+133            android:authorities="com.assetVantagePune.support.fileProvider.com.crazecoder.openfile"
+133-->[:open_filex] /Users/apple/StudioProjects/asset_vantage/build/open_filex/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:18:13-88
+134            android:exported="false"
+134-->[:open_filex] /Users/apple/StudioProjects/asset_vantage/build/open_filex/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:19:13-37
+135            android:grantUriPermissions="true" >
+135-->[:open_filex] /Users/apple/StudioProjects/asset_vantage/build/open_filex/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:20:13-47
+136            <meta-data
+136-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:75:12-78:51
+137                android:name="android.support.FILE_PROVIDER_PATHS"
+137-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:76:16-66
+138                android:resource="@xml/filepaths" />
+138-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:77:16-49
+139        </provider>
+140        <!--
+141           Declares a provider which allows us to store files to share in
+142           '.../caches/share_plus' and grant the receiving action access
+143        -->
+144        <provider
+144-->[:share_plus] /Users/apple/StudioProjects/asset_vantage/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:9-21:20
+145            android:name="dev.fluttercommunity.plus.share.ShareFileProvider"
+145-->[:share_plus] /Users/apple/StudioProjects/asset_vantage/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:14:13-77
+146            android:authorities="com.assetVantagePune.support.flutter.share_provider"
+146-->[:share_plus] /Users/apple/StudioProjects/asset_vantage/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:15:13-74
+147            android:exported="false"
+147-->[:share_plus] /Users/apple/StudioProjects/asset_vantage/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:16:13-37
+148            android:grantUriPermissions="true" >
+148-->[:share_plus] /Users/apple/StudioProjects/asset_vantage/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:17:13-47
+149            <meta-data
+149-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:75:12-78:51
+150                android:name="android.support.FILE_PROVIDER_PATHS"
+150-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:76:16-66
+151                android:resource="@xml/flutter_share_file_paths" />
+151-->/Users/apple/StudioProjects/asset_vantage/android/app/src/main/AndroidManifest.xml:77:16-49
+152        </provider>
+153        <!--
+154           This manifest declared broadcast receiver allows us to use an explicit
+155           Intent when creating a PendingItent to be informed of the user's choice
+156        -->
+157        <receiver
+157-->[:share_plus] /Users/apple/StudioProjects/asset_vantage/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:26:9-32:20
+158            android:name="dev.fluttercommunity.plus.share.SharePlusPendingIntent"
+158-->[:share_plus] /Users/apple/StudioProjects/asset_vantage/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:27:13-82
+159            android:exported="false" >
+159-->[:share_plus] /Users/apple/StudioProjects/asset_vantage/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:28:13-37
+160            <intent-filter>
+160-->[:share_plus] /Users/apple/StudioProjects/asset_vantage/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:29:13-31:29
+161                <action android:name="EXTRA_CHOSEN_COMPONENT" />
+161-->[:share_plus] /Users/apple/StudioProjects/asset_vantage/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:30:17-65
+161-->[:share_plus] /Users/apple/StudioProjects/asset_vantage/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:30:25-62
+162            </intent-filter>
+163        </receiver>
+164
+165        <activity
+165-->[:url_launcher_android] /Users/apple/StudioProjects/asset_vantage/build/url_launcher_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:9-11:74
+166            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+166-->[:url_launcher_android] /Users/apple/StudioProjects/asset_vantage/build/url_launcher_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:13-74
+167            android:exported="false"
+167-->[:url_launcher_android] /Users/apple/StudioProjects/asset_vantage/build/url_launcher_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:13-37
+168            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+168-->[:url_launcher_android] /Users/apple/StudioProjects/asset_vantage/build/url_launcher_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:13-71
+169
+170        <uses-library
+170-->[androidx.window:window:1.2.0] /Users/apple/.gradle/caches/8.9/transforms/0e9dfaafffcfc29f5a1018bdef3aece0/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
+171            android:name="androidx.window.extensions"
+171-->[androidx.window:window:1.2.0] /Users/apple/.gradle/caches/8.9/transforms/0e9dfaafffcfc29f5a1018bdef3aece0/transformed/jetified-window-1.2.0/AndroidManifest.xml:24:13-54
+172            android:required="false" />
+172-->[androidx.window:window:1.2.0] /Users/apple/.gradle/caches/8.9/transforms/0e9dfaafffcfc29f5a1018bdef3aece0/transformed/jetified-window-1.2.0/AndroidManifest.xml:25:13-37
+173        <uses-library
+173-->[androidx.window:window:1.2.0] /Users/apple/.gradle/caches/8.9/transforms/0e9dfaafffcfc29f5a1018bdef3aece0/transformed/jetified-window-1.2.0/AndroidManifest.xml:26:9-28:40
+174            android:name="androidx.window.sidecar"
+174-->[androidx.window:window:1.2.0] /Users/apple/.gradle/caches/8.9/transforms/0e9dfaafffcfc29f5a1018bdef3aece0/transformed/jetified-window-1.2.0/AndroidManifest.xml:27:13-51
+175            android:required="false" />
+175-->[androidx.window:window:1.2.0] /Users/apple/.gradle/caches/8.9/transforms/0e9dfaafffcfc29f5a1018bdef3aece0/transformed/jetified-window-1.2.0/AndroidManifest.xml:28:13-37
+176
+177        <provider
+177-->[androidx.emoji2:emoji2:1.2.0] /Users/apple/.gradle/caches/8.9/transforms/e59ce4380dd5e3797c446021c2171a84/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+178            android:name="androidx.startup.InitializationProvider"
+178-->[androidx.emoji2:emoji2:1.2.0] /Users/apple/.gradle/caches/8.9/transforms/e59ce4380dd5e3797c446021c2171a84/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+179            android:authorities="com.assetVantagePune.support.androidx-startup"
+179-->[androidx.emoji2:emoji2:1.2.0] /Users/apple/.gradle/caches/8.9/transforms/e59ce4380dd5e3797c446021c2171a84/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+180            android:exported="false" >
+180-->[androidx.emoji2:emoji2:1.2.0] /Users/apple/.gradle/caches/8.9/transforms/e59ce4380dd5e3797c446021c2171a84/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+181            <meta-data
+181-->[androidx.emoji2:emoji2:1.2.0] /Users/apple/.gradle/caches/8.9/transforms/e59ce4380dd5e3797c446021c2171a84/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+182                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+182-->[androidx.emoji2:emoji2:1.2.0] /Users/apple/.gradle/caches/8.9/transforms/e59ce4380dd5e3797c446021c2171a84/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+183                android:value="androidx.startup" />
+183-->[androidx.emoji2:emoji2:1.2.0] /Users/apple/.gradle/caches/8.9/transforms/e59ce4380dd5e3797c446021c2171a84/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+184            <meta-data
+184-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/apple/.gradle/caches/8.9/transforms/0dc7234c0845ff6befb5afd0d38cfb53/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+185                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+185-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/apple/.gradle/caches/8.9/transforms/0dc7234c0845ff6befb5afd0d38cfb53/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+186                android:value="androidx.startup" />
+186-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/apple/.gradle/caches/8.9/transforms/0dc7234c0845ff6befb5afd0d38cfb53/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+187            <meta-data
+187-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+188                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+188-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+189                android:value="androidx.startup" />
+189-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+190        </provider>
+191
+192        <receiver
+192-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+193            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+193-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+194            android:directBootAware="false"
+194-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+195            android:enabled="true"
+195-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+196            android:exported="true"
+196-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+197            android:permission="android.permission.DUMP" >
+197-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+198            <intent-filter>
+198-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+199                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+199-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+199-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+200            </intent-filter>
+201            <intent-filter>
+201-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+202                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+202-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+202-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+203            </intent-filter>
+204            <intent-filter>
+204-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+205                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+205-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+205-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+206            </intent-filter>
+207            <intent-filter>
+207-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+208                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+208-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+208-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.9/transforms/f2a130cb78ec32399a6254476838cfb8/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+209            </intent-filter>
+210        </receiver>
+211    </application>
+212
+213</manifest>

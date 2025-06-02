@@ -1,0 +1,11 @@
+framework module newrelic_mobile {
+  umbrella header "newrelic_mobile-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module newrelic_mobile.Swift {
+  header "newrelic_mobile-Swift.h"
+  requires objc
+}

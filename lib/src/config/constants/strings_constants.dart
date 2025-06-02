@@ -1,0 +1,118 @@
+import 'package:asset_vantage/src/config/constants/denomination_constants.dart';
+
+class StringConstants {
+  StringConstants._();
+
+  static const assetVantageApp = 'Asset Vantage App';
+  static const assetVantage = 'Asset Vantage';
+  static const splashScreenSubtitle = 'Performing Reporting & Ledger Report On Demand';
+
+  static const username = 'Username';
+  static const password = 'Password';
+  static const clientSystemName = 'System Name';
+  static const forgotPassword = 'Forgot Password?';
+  static const login = 'Login';
+  static const logout = "Logout";
+  static const stealth = "Stealth";
+  static const incorrectCredentials = 'Incorrect credentials. Please try again';
+  static const loginFailed = 'Login Failed';
+  static const invalidCredential = 'The credentials that you have entered are incorrect. Please try again.';
+  static const somethingWentWorng = 'Oops! Something went wrong on our end. Please try again later. If the problem persists, contact us at';
+  static const pleaseSignIn = 'Please sign in to continue';
+  static const faceId = 'Face Id';
+  static const touchId = 'Touch Id';
+  static const failedToOpenLink = 'Failed To Open Link';
+  static const contactSupport = 'Contact Support';
+  static const supportString = 'Please connect with your avsupport representative to get signed up for the beta program at';
+  static const insightsNotAvailable = 'Please connect with your avsupport representative to get signed up for the insights feature at';
+  static const name = 'Jhon Doe';
+  static const incorrectSystemName = 'Incorrect system name. Please try again';
+
+  static const noOfPeriodFilterString = "# of Periods";
+  static const entityGroupFilterString = "Entity/Group";
+  static const primaryGrpFilterString = "Primary Grouping";
+  static const partnershipMethod = "Partnership Method";
+  static const holdingMethod = "Holding Method";
+  static const primarySubGrpFilterString = "Primary Sub-Grouping";
+  static const secondaryGrpFilterString = "Secondary Grouping";
+  static const secondarySubGrpFilterString = "Secondary Sub-Grouping";
+  static const accountsFilterString = "Accounts";
+  static const periodFilterString = "Periods";
+  static const returnPercentageFilterString = "Return %";
+  static const currencyFilterString = "Currency";
+  static const denominationFilterString = "Denomination";
+  static const asOnDateFilterString = "As on Date";
+  static const entityGroupFilterHeader = "Entities/Groups filter";
+  static const dateFilterHeader = "Date filter";
+  static const netWorthFilterHeader = "Net Worth";
+  static const performanceFilterHeader = "Performance";
+  static const cashBalanceFilterHeader = "Cash Balance";
+  static const incomeFilterHeader = "Income";
+  static const expenseFilterHeader = "Expense";
+  static const documentEntityFilterHeader = "Entity filter";
+  static const entityTab = "Entity";
+  static const groupTab = "Group";
+  static const filter ="Filter";
+  static const applyButton = 'Apply';
+  static const expenseReport = "Expense";
+  static const incomeReport = "Income";
+  static const cashBalanceReport = "CashBalance";
+  static const performanceReport = "Performance";
+  static const welcomeHeader = "Welcome,";
+  static const primaryReportHeader = "Primary Reports";
+  static const personalisationHint = "Use filter to personalise this report";
+  static const favoriteHeader = "Favorites";
+  static const personaliseDashboard = "Personalise your Dashboard";
+  static const personaliseDashboardCustomisedView = "Select your favourite charts for a \ncustomised view";
+  static const startPersonalising = "Start personalising";
+  static const selectWidgetsForDashboard = "Select Widgets for Dashboard";
+  static const favPerformanceWidget = "Performance Widget";
+  static const favConfigureButton = "Configure";
+  static const favIncomeWidget = "Income Widget";
+  static const favExpenseWidget = "Expense Widget";
+  static const favCashBalanceWidget = "Cash Balance Widget";
+  static const favNetWorthWidget = "Net Worth Widget";
+  static const favDelete = "Delete";
+  static const favBlankWidgetPopup = "Delete this favorite?";
+  static const favCancel = "Cancel";
+  static const favPopUpDelete = "Delete";
+  static const favCopy = "Copy";
+  static const marketValue = "Market Value";
+  static const mtd = "MTD";
+  static const qtd = "QTD";
+  static const cytd = "CYTD";
+  static const fytd = "FYTD";
+  static const oneYear = "1Yr";
+  static const twoYear = "2Yr";
+  static const threeYear = "3Yr";
+  static const incTWR = "I. Twr";
+  static const irr = "IRR";
+  static const documentView = "View";
+  static const documentShare = "Share";
+  static const documentDownload = "Download";
+  static const documentNameAZ = "Name A-Z";
+  static const documentNameZA= "Name Z-A";
+  static const documentNewestFirst = "Newest First";
+  static const documentOldestFirst = "Oldest First";
+
+  static const highToLow = "High to Low";
+  static const lowToHigh = "Low to High";
+  static const nameAZ = "Name (A-Z)";
+  static const nameZA = "Name (Z-A)";
+
+  //automation keys constants
+  static const entityTabKey = "EntityTab";
+  static const groupTabKey = "GroupTab";
+  static const entityGrpFilterKey = "EntityGrpFilter";
+  static const primaryGrpFilterKey = "PrimaryGrpFilter";
+  static const primarySubGrpFilterKey = "PrimarySubFilter";
+  static const periodFilterKey = "PeriodFilterKey";
+  static const noOfPeriodFilterKey = "NoOfPeriodFilter";
+  static const currencyFilterKey = "CurrencyFilterScreen";
+  static const denominationFilterKey ="DenominationFilterKey";
+  static const asOnDateFilterKey = "AsOnDateFilterScreen";
+  static const partnershipMethodKey = "PartnershipMethodKey";
+  static const holdingMethodKey = "HoldingMethodKey";
+}
+
+List<Map<String, dynamic>> fev_item_list = [];

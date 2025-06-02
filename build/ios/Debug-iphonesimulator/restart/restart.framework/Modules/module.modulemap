@@ -1,0 +1,11 @@
+framework module restart {
+  umbrella header "restart-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module restart.Swift {
+  header "restart-Swift.h"
+  requires objc
+}

@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/apple/.pub-cache/hosted/pub.dev/file_saver-0.2.14/android"
+    name=":file_saver"
+    type="LIBRARY"
+    maven="com.incrediblezayed.file_saver:file_saver:1.0-SNAPSHOT"
+    agpVersion="8.5.2"
+    buildFolder="/Users/apple/StudioProjects/asset_vantage/build/file_saver"
+    bootClassPath="/Users/apple/Library/Android/sdk/platforms/android-34/android.jar:/Users/apple/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

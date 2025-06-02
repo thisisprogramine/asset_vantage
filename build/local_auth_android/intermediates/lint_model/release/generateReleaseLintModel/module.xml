@@ -1,0 +1,37 @@
+<lint-module
+    format="1"
+    dir="/Users/apple/.pub-cache/hosted/pub.dev/local_auth_android-1.0.44/android"
+    name=":local_auth_android"
+    type="LIBRARY"
+    maven="io.flutter.plugins.localauth:local_auth_android:1.0-SNAPSHOT"
+    agpVersion="8.5.2"
+    buildFolder="/Users/apple/StudioProjects/asset_vantage/build/local_auth_android"
+    bootClassPath="/Users/apple/Library/Android/sdk/platforms/android-34/android.jar:/Users/apple/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      disable="AndroidGradlePluginVersion,InvalidPackage,GradleDependency,NewerVersionAvailable"
+      abortOnError="true"
+      absolutePaths="true"
+      checkAllWarnings="true"
+      warningsAsErrors="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="AndroidGradlePluginVersion"
+        severity="IGNORE" />
+      <severity
+        id="GradleDependency"
+        severity="IGNORE" />
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+      <severity
+        id="NewerVersionAvailable"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

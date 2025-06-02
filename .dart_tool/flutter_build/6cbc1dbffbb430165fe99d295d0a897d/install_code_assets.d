@@ -1,0 +1,1 @@
+ /Users/apple/StudioProjects/asset_vantage/.dart_tool/flutter_build/6cbc1dbffbb430165fe99d295d0a897d/native_assets.json: 

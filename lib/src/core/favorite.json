@@ -1,0 +1,1556 @@
+{
+  "statusCode": 200,
+  "body": {
+    "periods": [
+      {
+        "year": 2025,
+        "period_start": "2025-01-01",
+        "period_end": "2025-01-27",
+        "total": -71844798.66999747,
+        "primary_subgroup": [
+          {
+            "title": "Cash",
+            "entity_name": "Whitmore Family Group",
+            "accounts": [
+              {
+                "account_id": 76584,
+                "account_name": "Bank OF America - Bank Accounts - xx555 - BA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -49288822.8
+              },
+              {
+                "account_id": 13342,
+                "account_name": "Goldman Sachs - Brokerage Cash - 789xxxx8788 - OA - GBP -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -13654013.776027476
+              },
+              {
+                "account_id": 392,
+                "account_name": "Fidelity - Broker Cash - xxxx1234 - CA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -4956322.260000001
+              },
+              {
+                "account_id": 74458,
+                "account_name": "Fidelity - Broker Cash - xxxx2224 - BC - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1325000.0
+              },
+              {
+                "account_id": 97477,
+                "account_name": "Bank of Singapore - Bank - xxxx5544 - SB - SGD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -999649.5339599999
+              },
+              {
+                "account_id": 13403,
+                "account_name": "Cash Account - Cash - AV1LAAC84941227 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -474930.0
+              },
+              {
+                "account_id": 45878,
+                "account_name": "JP Morgan Chase - Cash - xxxx8989 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -378597.5
+              },
+              {
+                "account_id": 13308,
+                "account_name": "Barclays - Brokerage Cash - xxxx 3443 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -350000.0
+              },
+              {
+                "account_id": 22,
+                "account_name": "Bank of America- New York - Checking - 12801242353173 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -256010.83999999997
+              },
+              {
+                "account_id": 13324,
+                "account_name": "Morgan Stanley - Brokerage Cash - xxxx4234 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -99000.0
+              },
+              {
+                "account_id": 52945,
+                "account_name": "JP Morgan Chase - Cash - xxxx9911 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -63110.0
+              },
+              {
+                "account_id": 45,
+                "account_name": "HSBC Bank - Savings - xxxx2719 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -52671.30000000005
+              },
+              {
+                "account_id": 13326,
+                "account_name": "10101 - Cash on Hand - Household - 123 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -10000.0
+              },
+              {
+                "account_id": 48,
+                "account_name": "American Express - Credit Card - 90361732 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1345.6599999999999
+              },
+              {
+                "account_id": 13487,
+                "account_name": "Bill.com - Bill Pay - xxxx - BP - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -750.0
+              },
+              {
+                "account_id": 14782,
+                "account_name": "Payee - For : Credit Card Account - AV1LEAC38636227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14788,
+                "account_name": "Overdraft Account - For : Overdraft - AV1LEAC32101227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14779,
+                "account_name": "Credit Card Account - Credit Card - xxxx4522 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 3600.0
+              },
+              {
+                "account_id": 13316,
+                "account_name": "TD Ameritrade - Cash - xxxx91288276 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 61824.99999
+              }
+            ],
+            "total": -71844798.66999747
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "period_start": "2024-01-01",
+        "period_end": "2024-12-31",
+        "total": -71846128.09806834,
+        "primary_subgroup": [
+          {
+            "title": "Cash",
+            "entity_name": "Whitmore Family Group",
+            "accounts": [
+              {
+                "account_id": 76584,
+                "account_name": "Bank OF America - Bank Accounts - xx555 - BA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -49288822.8
+              },
+              {
+                "account_id": 13342,
+                "account_name": "Goldman Sachs - Brokerage Cash - 789xxxx8788 - OA - GBP -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -13670403.837378344
+              },
+              {
+                "account_id": 392,
+                "account_name": "Fidelity - Broker Cash - xxxx1234 - CA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -4956322.260000001
+              },
+              {
+                "account_id": 74458,
+                "account_name": "Fidelity - Broker Cash - xxxx2224 - BC - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1325000.0
+              },
+              {
+                "account_id": 97477,
+                "account_name": "Bank of Singapore - Bank - xxxx5544 - SB - SGD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -984588.90068
+              },
+              {
+                "account_id": 13403,
+                "account_name": "Cash Account - Cash - AV1LAAC84941227 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -474930.0
+              },
+              {
+                "account_id": 45878,
+                "account_name": "JP Morgan Chase - Cash - xxxx8989 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -378597.5
+              },
+              {
+                "account_id": 13308,
+                "account_name": "Barclays - Brokerage Cash - xxxx 3443 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -350000.0
+              },
+              {
+                "account_id": 22,
+                "account_name": "Bank of America- New York - Checking - 12801242353173 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -256010.83999999997
+              },
+              {
+                "account_id": 13324,
+                "account_name": "Morgan Stanley - Brokerage Cash - xxxx4234 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -99000.0
+              },
+              {
+                "account_id": 52945,
+                "account_name": "JP Morgan Chase - Cash - xxxx9911 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -63110.0
+              },
+              {
+                "account_id": 45,
+                "account_name": "HSBC Bank - Savings - xxxx2719 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -52671.30000000005
+              },
+              {
+                "account_id": 13326,
+                "account_name": "10101 - Cash on Hand - Household - 123 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -10000.0
+              },
+              {
+                "account_id": 48,
+                "account_name": "American Express - Credit Card - 90361732 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1345.6599999999999
+              },
+              {
+                "account_id": 13487,
+                "account_name": "Bill.com - Bill Pay - xxxx - BP - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -750.0
+              },
+              {
+                "account_id": 14782,
+                "account_name": "Payee - For : Credit Card Account - AV1LEAC38636227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14788,
+                "account_name": "Overdraft Account - For : Overdraft - AV1LEAC32101227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14779,
+                "account_name": "Credit Card Account - Credit Card - xxxx4522 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 3600.0
+              },
+              {
+                "account_id": 13316,
+                "account_name": "TD Ameritrade - Cash - xxxx91288276 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 61824.99999
+              }
+            ],
+            "total": -71846128.09806834
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "period_start": "2023-01-01",
+        "period_end": "2023-12-31",
+        "total": -71898604.99479425,
+        "primary_subgroup": [
+          {
+            "title": "Cash",
+            "entity_name": "Whitmore Family Group",
+            "accounts": [
+              {
+                "account_id": 76584,
+                "account_name": "Bank OF America - Bank Accounts - xx555 - BA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -49349371.8
+              },
+              {
+                "account_id": 13342,
+                "account_name": "Goldman Sachs - Brokerage Cash - 789xxxx8788 - OA - GBP -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -13810376.369344251
+              },
+              {
+                "account_id": 392,
+                "account_name": "Fidelity - Broker Cash - xxxx1234 - CA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -4956322.260000001
+              },
+              {
+                "account_id": 74458,
+                "account_name": "Fidelity - Broker Cash - xxxx2224 - BC - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1325000.0
+              },
+              {
+                "account_id": 97477,
+                "account_name": "Bank of Singapore - Bank - xxxx5544 - SB - SGD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1018744.26544
+              },
+              {
+                "account_id": 45878,
+                "account_name": "JP Morgan Chase - Cash - xxxx8989 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -378897.5
+              },
+              {
+                "account_id": 13308,
+                "account_name": "Barclays - Brokerage Cash - xxxx 3443 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -350000.0
+              },
+              {
+                "account_id": 22,
+                "account_name": "Bank of America- New York - Checking - 12801242353173 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -336010.83999999997
+              },
+              {
+                "account_id": 13403,
+                "account_name": "Cash Account - Cash - AV1LAAC84941227 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -222430.0
+              },
+              {
+                "account_id": 13324,
+                "account_name": "Morgan Stanley - Brokerage Cash - xxxx4234 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -99000.0
+              },
+              {
+                "account_id": 52945,
+                "account_name": "JP Morgan Chase - Cash - xxxx9911 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -63110.0
+              },
+              {
+                "account_id": 45,
+                "account_name": "HSBC Bank - Savings - xxxx2719 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -42671.30000000005
+              },
+              {
+                "account_id": 13326,
+                "account_name": "10101 - Cash on Hand - Household - 123 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -10000.0
+              },
+              {
+                "account_id": 48,
+                "account_name": "American Express - Credit Card - 90361732 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1345.6599999999999
+              },
+              {
+                "account_id": 13487,
+                "account_name": "Bill.com - Bill Pay - xxxx - BP - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -750.0
+              },
+              {
+                "account_id": 14788,
+                "account_name": "Overdraft Account - For : Overdraft - AV1LEAC32101227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14782,
+                "account_name": "Payee - For : Credit Card Account - AV1LEAC38636227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14779,
+                "account_name": "Credit Card Account - Credit Card - xxxx4522 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 3600.0
+              },
+              {
+                "account_id": 13316,
+                "account_name": "TD Ameritrade - Cash - xxxx91288276 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 61824.99999
+              }
+            ],
+            "total": -71898604.99479425
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "period_start": "2022-01-01",
+        "period_end": "2022-12-31",
+        "total": -71338926.17744446,
+        "primary_subgroup": [
+          {
+            "title": "Cash",
+            "entity_name": "Whitmore Family Group",
+            "accounts": [
+              {
+                "account_id": 76584,
+                "account_name": "Bank OF America - Bank Accounts - xx555 - BA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -49998825.3
+              },
+              {
+                "account_id": 13342,
+                "account_name": "Goldman Sachs - Brokerage Cash - 789xxxx8788 - OA - GBP -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -13033958.095094461
+              },
+              {
+                "account_id": 392,
+                "account_name": "Fidelity - Broker Cash - xxxx1234 - CA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -4956322.260000001
+              },
+              {
+                "account_id": 74458,
+                "account_name": "Fidelity - Broker Cash - xxxx2224 - BC - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1325000.0
+              },
+              {
+                "account_id": 97477,
+                "account_name": "Bank of Singapore - Bank - xxxx5544 - SB - SGD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1003280.22234
+              },
+              {
+                "account_id": 45878,
+                "account_name": "JP Morgan Chase - Cash - xxxx8989 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -379797.5
+              },
+              {
+                "account_id": 13308,
+                "account_name": "Barclays - Brokerage Cash - xxxx 3443 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -350000.0
+              },
+              {
+                "account_id": 13324,
+                "account_name": "Morgan Stanley - Brokerage Cash - xxxx4234 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -99000.0
+              },
+              {
+                "account_id": 13403,
+                "account_name": "Cash Account - Cash - AV1LAAC84941227 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -76930.0
+              },
+              {
+                "account_id": 22,
+                "account_name": "Bank of America- New York - Checking - 12801242353173 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -63360.83999999997
+              },
+              {
+                "account_id": 52945,
+                "account_name": "JP Morgan Chase - Cash - xxxx9911 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -63110.0
+              },
+              {
+                "account_id": 45,
+                "account_name": "HSBC Bank - Savings - xxxx2719 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -42671.30000000005
+              },
+              {
+                "account_id": 13326,
+                "account_name": "10101 - Cash on Hand - Household - 123 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -10000.0
+              },
+              {
+                "account_id": 48,
+                "account_name": "American Express - Credit Card - 90361732 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1345.6599999999999
+              },
+              {
+                "account_id": 13487,
+                "account_name": "Bill.com - Bill Pay - xxxx - BP - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -750.0
+              },
+              {
+                "account_id": 14782,
+                "account_name": "Payee - For : Credit Card Account - AV1LEAC38636227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14788,
+                "account_name": "Overdraft Account - For : Overdraft - AV1LEAC32101227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14779,
+                "account_name": "Credit Card Account - Credit Card - xxxx4522 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 3600.0
+              },
+              {
+                "account_id": 13316,
+                "account_name": "TD Ameritrade - Cash - xxxx91288276 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 61824.99999
+              }
+            ],
+            "total": -71338926.17744446
+          }
+        ]
+      },
+      {
+        "year": 2021,
+        "period_start": "2021-01-01",
+        "period_end": "2021-12-31",
+        "total": -72891013.83473372,
+        "primary_subgroup": [
+          {
+            "title": "Cash",
+            "entity_name": "Whitmore Family Group",
+            "accounts": [
+              {
+                "account_id": 76584,
+                "account_name": "Bank OF America - Bank Accounts - xx555 - BA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -50000000.0
+              },
+              {
+                "account_id": 13342,
+                "account_name": "Goldman Sachs - Brokerage Cash - 789xxxx8788 - OA - GBP -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -14575518.97472373
+              },
+              {
+                "account_id": 392,
+                "account_name": "Fidelity - Broker Cash - xxxx1234 - CA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -4956322.260000001
+              },
+              {
+                "account_id": 74458,
+                "account_name": "Fidelity - Broker Cash - xxxx2224 - BC - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1325000.0
+              },
+              {
+                "account_id": 97477,
+                "account_name": "Bank of Singapore - Bank - xxxx5544 - SB - SGD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -996867.3
+              },
+              {
+                "account_id": 45878,
+                "account_name": "JP Morgan Chase - Cash - xxxx8989 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -379797.5
+              },
+              {
+                "account_id": 13308,
+                "account_name": "Barclays - Brokerage Cash - xxxx 3443 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -350000.0
+              },
+              {
+                "account_id": 13324,
+                "account_name": "Morgan Stanley - Brokerage Cash - xxxx4234 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -99000.0
+              },
+              {
+                "account_id": 13403,
+                "account_name": "Cash Account - Cash - AV1LAAC84941227 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -76930.0
+              },
+              {
+                "account_id": 22,
+                "account_name": "Bank of America- New York - Checking - 12801242353173 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -64660.83999999997
+              },
+              {
+                "account_id": 52945,
+                "account_name": "JP Morgan Chase - Cash - xxxx9911 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -63110.0
+              },
+              {
+                "account_id": 45,
+                "account_name": "HSBC Bank - Savings - xxxx2719 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -43671.30000000005
+              },
+              {
+                "account_id": 48,
+                "account_name": "American Express - Credit Card - 90361732 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -14810.66
+              },
+              {
+                "account_id": 13326,
+                "account_name": "10101 - Cash on Hand - Household - 123 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -10000.0
+              },
+              {
+                "account_id": 13487,
+                "account_name": "Bill.com - Bill Pay - xxxx - BP - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -750.0
+              },
+              {
+                "account_id": 14782,
+                "account_name": "Payee - For : Credit Card Account - AV1LEAC38636227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14788,
+                "account_name": "Overdraft Account - For : Overdraft - AV1LEAC32101227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14779,
+                "account_name": "Credit Card Account - Credit Card - xxxx4522 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 3600.0
+              },
+              {
+                "account_id": 13316,
+                "account_name": "TD Ameritrade - Cash - xxxx91288276 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 61824.99999
+              }
+            ],
+            "total": -72891013.83473372
+          }
+        ]
+      },
+      {
+        "year": 2025,
+        "period_start": "2025-01-01",
+        "period_end": "2025-01-27",
+        "total": -71844798.66999747,
+        "primary_subgroup": [
+          {
+            "title": "Cash",
+            "entity_name": "Whitmore Family Group",
+            "accounts": [
+              {
+                "account_id": 76584,
+                "account_name": "Bank OF America - Bank Accounts - xx555 - BA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -49288822.8
+              },
+              {
+                "account_id": 13342,
+                "account_name": "Goldman Sachs - Brokerage Cash - 789xxxx8788 - OA - GBP -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -13654013.776027476
+              },
+              {
+                "account_id": 392,
+                "account_name": "Fidelity - Broker Cash - xxxx1234 - CA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -4956322.260000001
+              },
+              {
+                "account_id": 74458,
+                "account_name": "Fidelity - Broker Cash - xxxx2224 - BC - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1325000.0
+              },
+              {
+                "account_id": 97477,
+                "account_name": "Bank of Singapore - Bank - xxxx5544 - SB - SGD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -999649.5339599999
+              },
+              {
+                "account_id": 13403,
+                "account_name": "Cash Account - Cash - AV1LAAC84941227 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -474930.0
+              },
+              {
+                "account_id": 45878,
+                "account_name": "JP Morgan Chase - Cash - xxxx8989 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -378597.5
+              },
+              {
+                "account_id": 13308,
+                "account_name": "Barclays - Brokerage Cash - xxxx 3443 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -350000.0
+              },
+              {
+                "account_id": 22,
+                "account_name": "Bank of America- New York - Checking - 12801242353173 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -256010.83999999997
+              },
+              {
+                "account_id": 13324,
+                "account_name": "Morgan Stanley - Brokerage Cash - xxxx4234 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -99000.0
+              },
+              {
+                "account_id": 52945,
+                "account_name": "JP Morgan Chase - Cash - xxxx9911 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -63110.0
+              },
+              {
+                "account_id": 45,
+                "account_name": "HSBC Bank - Savings - xxxx2719 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -52671.30000000005
+              },
+              {
+                "account_id": 13326,
+                "account_name": "10101 - Cash on Hand - Household - 123 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -10000.0
+              },
+              {
+                "account_id": 48,
+                "account_name": "American Express - Credit Card - 90361732 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1345.6599999999999
+              },
+              {
+                "account_id": 13487,
+                "account_name": "Bill.com - Bill Pay - xxxx - BP - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -750.0
+              },
+              {
+                "account_id": 14782,
+                "account_name": "Payee - For : Credit Card Account - AV1LEAC38636227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14788,
+                "account_name": "Overdraft Account - For : Overdraft - AV1LEAC32101227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14779,
+                "account_name": "Credit Card Account - Credit Card - xxxx4522 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 3600.0
+              },
+              {
+                "account_id": 13316,
+                "account_name": "TD Ameritrade - Cash - xxxx91288276 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 61824.99999
+              }
+            ],
+            "total": -71844798.66999747
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "period_start": "2024-01-01",
+        "period_end": "2024-12-31",
+        "total": -71846128.09806834,
+        "primary_subgroup": [
+          {
+            "title": "Cash",
+            "entity_name": "Whitmore Family Group",
+            "accounts": [
+              {
+                "account_id": 76584,
+                "account_name": "Bank OF America - Bank Accounts - xx555 - BA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -49288822.8
+              },
+              {
+                "account_id": 13342,
+                "account_name": "Goldman Sachs - Brokerage Cash - 789xxxx8788 - OA - GBP -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -13670403.837378344
+              },
+              {
+                "account_id": 392,
+                "account_name": "Fidelity - Broker Cash - xxxx1234 - CA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -4956322.260000001
+              },
+              {
+                "account_id": 74458,
+                "account_name": "Fidelity - Broker Cash - xxxx2224 - BC - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1325000.0
+              },
+              {
+                "account_id": 97477,
+                "account_name": "Bank of Singapore - Bank - xxxx5544 - SB - SGD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -984588.90068
+              },
+              {
+                "account_id": 13403,
+                "account_name": "Cash Account - Cash - AV1LAAC84941227 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -474930.0
+              },
+              {
+                "account_id": 45878,
+                "account_name": "JP Morgan Chase - Cash - xxxx8989 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -378597.5
+              },
+              {
+                "account_id": 13308,
+                "account_name": "Barclays - Brokerage Cash - xxxx 3443 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -350000.0
+              },
+              {
+                "account_id": 22,
+                "account_name": "Bank of America- New York - Checking - 12801242353173 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -256010.83999999997
+              },
+              {
+                "account_id": 13324,
+                "account_name": "Morgan Stanley - Brokerage Cash - xxxx4234 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -99000.0
+              },
+              {
+                "account_id": 52945,
+                "account_name": "JP Morgan Chase - Cash - xxxx9911 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -63110.0
+              },
+              {
+                "account_id": 45,
+                "account_name": "HSBC Bank - Savings - xxxx2719 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -52671.30000000005
+              },
+              {
+                "account_id": 13326,
+                "account_name": "10101 - Cash on Hand - Household - 123 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -10000.0
+              },
+              {
+                "account_id": 48,
+                "account_name": "American Express - Credit Card - 90361732 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1345.6599999999999
+              },
+              {
+                "account_id": 13487,
+                "account_name": "Bill.com - Bill Pay - xxxx - BP - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -750.0
+              },
+              {
+                "account_id": 14782,
+                "account_name": "Payee - For : Credit Card Account - AV1LEAC38636227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14788,
+                "account_name": "Overdraft Account - For : Overdraft - AV1LEAC32101227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14779,
+                "account_name": "Credit Card Account - Credit Card - xxxx4522 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 3600.0
+              },
+              {
+                "account_id": 13316,
+                "account_name": "TD Ameritrade - Cash - xxxx91288276 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 61824.99999
+              }
+            ],
+            "total": -71846128.09806834
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "period_start": "2023-01-01",
+        "period_end": "2023-12-31",
+        "total": -71898604.99479425,
+        "primary_subgroup": [
+          {
+            "title": "Cash",
+            "entity_name": "Whitmore Family Group",
+            "accounts": [
+              {
+                "account_id": 76584,
+                "account_name": "Bank OF America - Bank Accounts - xx555 - BA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -49349371.8
+              },
+              {
+                "account_id": 13342,
+                "account_name": "Goldman Sachs - Brokerage Cash - 789xxxx8788 - OA - GBP -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -13810376.369344251
+              },
+              {
+                "account_id": 392,
+                "account_name": "Fidelity - Broker Cash - xxxx1234 - CA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -4956322.260000001
+              },
+              {
+                "account_id": 74458,
+                "account_name": "Fidelity - Broker Cash - xxxx2224 - BC - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1325000.0
+              },
+              {
+                "account_id": 97477,
+                "account_name": "Bank of Singapore - Bank - xxxx5544 - SB - SGD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1018744.26544
+              },
+              {
+                "account_id": 45878,
+                "account_name": "JP Morgan Chase - Cash - xxxx8989 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -378897.5
+              },
+              {
+                "account_id": 13308,
+                "account_name": "Barclays - Brokerage Cash - xxxx 3443 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -350000.0
+              },
+              {
+                "account_id": 22,
+                "account_name": "Bank of America- New York - Checking - 12801242353173 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -336010.83999999997
+              },
+              {
+                "account_id": 13403,
+                "account_name": "Cash Account - Cash - AV1LAAC84941227 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -222430.0
+              },
+              {
+                "account_id": 13324,
+                "account_name": "Morgan Stanley - Brokerage Cash - xxxx4234 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -99000.0
+              },
+              {
+                "account_id": 52945,
+                "account_name": "JP Morgan Chase - Cash - xxxx9911 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -63110.0
+              },
+              {
+                "account_id": 45,
+                "account_name": "HSBC Bank - Savings - xxxx2719 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -42671.30000000005
+              },
+              {
+                "account_id": 13326,
+                "account_name": "10101 - Cash on Hand - Household - 123 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -10000.0
+              },
+              {
+                "account_id": 48,
+                "account_name": "American Express - Credit Card - 90361732 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1345.6599999999999
+              },
+              {
+                "account_id": 13487,
+                "account_name": "Bill.com - Bill Pay - xxxx - BP - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -750.0
+              },
+              {
+                "account_id": 14788,
+                "account_name": "Overdraft Account - For : Overdraft - AV1LEAC32101227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14782,
+                "account_name": "Payee - For : Credit Card Account - AV1LEAC38636227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14779,
+                "account_name": "Credit Card Account - Credit Card - xxxx4522 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 3600.0
+              },
+              {
+                "account_id": 13316,
+                "account_name": "TD Ameritrade - Cash - xxxx91288276 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 61824.99999
+              }
+            ],
+            "total": -71898604.99479425
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "period_start": "2022-01-01",
+        "period_end": "2022-12-31",
+        "total": -71338926.17744446,
+        "primary_subgroup": [
+          {
+            "title": "Cash",
+            "entity_name": "Whitmore Family Group",
+            "accounts": [
+              {
+                "account_id": 76584,
+                "account_name": "Bank OF America - Bank Accounts - xx555 - BA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -49998825.3
+              },
+              {
+                "account_id": 13342,
+                "account_name": "Goldman Sachs - Brokerage Cash - 789xxxx8788 - OA - GBP -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -13033958.095094461
+              },
+              {
+                "account_id": 392,
+                "account_name": "Fidelity - Broker Cash - xxxx1234 - CA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -4956322.260000001
+              },
+              {
+                "account_id": 74458,
+                "account_name": "Fidelity - Broker Cash - xxxx2224 - BC - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1325000.0
+              },
+              {
+                "account_id": 97477,
+                "account_name": "Bank of Singapore - Bank - xxxx5544 - SB - SGD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1003280.22234
+              },
+              {
+                "account_id": 45878,
+                "account_name": "JP Morgan Chase - Cash - xxxx8989 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -379797.5
+              },
+              {
+                "account_id": 13308,
+                "account_name": "Barclays - Brokerage Cash - xxxx 3443 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -350000.0
+              },
+              {
+                "account_id": 13324,
+                "account_name": "Morgan Stanley - Brokerage Cash - xxxx4234 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -99000.0
+              },
+              {
+                "account_id": 13403,
+                "account_name": "Cash Account - Cash - AV1LAAC84941227 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -76930.0
+              },
+              {
+                "account_id": 22,
+                "account_name": "Bank of America- New York - Checking - 12801242353173 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -63360.83999999997
+              },
+              {
+                "account_id": 52945,
+                "account_name": "JP Morgan Chase - Cash - xxxx9911 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -63110.0
+              },
+              {
+                "account_id": 45,
+                "account_name": "HSBC Bank - Savings - xxxx2719 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -42671.30000000005
+              },
+              {
+                "account_id": 13326,
+                "account_name": "10101 - Cash on Hand - Household - 123 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -10000.0
+              },
+              {
+                "account_id": 48,
+                "account_name": "American Express - Credit Card - 90361732 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1345.6599999999999
+              },
+              {
+                "account_id": 13487,
+                "account_name": "Bill.com - Bill Pay - xxxx - BP - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -750.0
+              },
+              {
+                "account_id": 14782,
+                "account_name": "Payee - For : Credit Card Account - AV1LEAC38636227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14788,
+                "account_name": "Overdraft Account - For : Overdraft - AV1LEAC32101227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14779,
+                "account_name": "Credit Card Account - Credit Card - xxxx4522 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 3600.0
+              },
+              {
+                "account_id": 13316,
+                "account_name": "TD Ameritrade - Cash - xxxx91288276 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 61824.99999
+              }
+            ],
+            "total": -71338926.17744446
+          }
+        ]
+      },
+      {
+        "year": 2021,
+        "period_start": "2021-01-01",
+        "period_end": "2021-12-31",
+        "total": -72891013.83473372,
+        "primary_subgroup": [
+          {
+            "title": "Cash",
+            "entity_name": "Whitmore Family Group",
+            "accounts": [
+              {
+                "account_id": 76584,
+                "account_name": "Bank OF America - Bank Accounts - xx555 - BA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -50000000.0
+              },
+              {
+                "account_id": 13342,
+                "account_name": "Goldman Sachs - Brokerage Cash - 789xxxx8788 - OA - GBP -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -14575518.97472373
+              },
+              {
+                "account_id": 392,
+                "account_name": "Fidelity - Broker Cash - xxxx1234 - CA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -4956322.260000001
+              },
+              {
+                "account_id": 74458,
+                "account_name": "Fidelity - Broker Cash - xxxx2224 - BC - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1325000.0
+              },
+              {
+                "account_id": 97477,
+                "account_name": "Bank of Singapore - Bank - xxxx5544 - SB - SGD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -996867.3
+              },
+              {
+                "account_id": 45878,
+                "account_name": "JP Morgan Chase - Cash - xxxx8989 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -379797.5
+              },
+              {
+                "account_id": 13308,
+                "account_name": "Barclays - Brokerage Cash - xxxx 3443 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -350000.0
+              },
+              {
+                "account_id": 13324,
+                "account_name": "Morgan Stanley - Brokerage Cash - xxxx4234 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -99000.0
+              },
+              {
+                "account_id": 13403,
+                "account_name": "Cash Account - Cash - AV1LAAC84941227 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -76930.0
+              },
+              {
+                "account_id": 22,
+                "account_name": "Bank of America- New York - Checking - 12801242353173 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -64660.83999999997
+              },
+              {
+                "account_id": 52945,
+                "account_name": "JP Morgan Chase - Cash - xxxx9911 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -63110.0
+              },
+              {
+                "account_id": 45,
+                "account_name": "HSBC Bank - Savings - xxxx2719 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -43671.30000000005
+              },
+              {
+                "account_id": 48,
+                "account_name": "American Express - Credit Card - 90361732 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -14810.66
+              },
+              {
+                "account_id": 13326,
+                "account_name": "10101 - Cash on Hand - Household - 123 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -10000.0
+              },
+              {
+                "account_id": 13487,
+                "account_name": "Bill.com - Bill Pay - xxxx - BP - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -750.0
+              },
+              {
+                "account_id": 14782,
+                "account_name": "Payee - For : Credit Card Account - AV1LEAC38636227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14788,
+                "account_name": "Overdraft Account - For : Overdraft - AV1LEAC32101227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14779,
+                "account_name": "Credit Card Account - Credit Card - xxxx4522 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 3600.0
+              },
+              {
+                "account_id": 13316,
+                "account_name": "TD Ameritrade - Cash - xxxx91288276 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 61824.99999
+              }
+            ],
+            "total": -72891013.83473372
+          }
+        ]
+      },
+      {
+        "year": 2021,
+        "period_start": "2021-01-01",
+        "period_end": "2021-12-31",
+        "total": -72891013.83473372,
+        "primary_subgroup": [
+          {
+            "title": "Cash",
+            "entity_name": "Whitmore Family Group",
+            "accounts": [
+              {
+                "account_id": 76584,
+                "account_name": "Bank OF America - Bank Accounts - xx555 - BA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -50000000.0
+              },
+              {
+                "account_id": 13342,
+                "account_name": "Goldman Sachs - Brokerage Cash - 789xxxx8788 - OA - GBP -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -14575518.97472373
+              },
+              {
+                "account_id": 392,
+                "account_name": "Fidelity - Broker Cash - xxxx1234 - CA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -4956322.260000001
+              },
+              {
+                "account_id": 74458,
+                "account_name": "Fidelity - Broker Cash - xxxx2224 - BC - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1325000.0
+              },
+              {
+                "account_id": 97477,
+                "account_name": "Bank of Singapore - Bank - xxxx5544 - SB - SGD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -996867.3
+              },
+              {
+                "account_id": 45878,
+                "account_name": "JP Morgan Chase - Cash - xxxx8989 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -379797.5
+              },
+              {
+                "account_id": 13308,
+                "account_name": "Barclays - Brokerage Cash - xxxx 3443 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -350000.0
+              },
+              {
+                "account_id": 13324,
+                "account_name": "Morgan Stanley - Brokerage Cash - xxxx4234 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -99000.0
+              },
+              {
+                "account_id": 13403,
+                "account_name": "Cash Account - Cash - AV1LAAC84941227 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -76930.0
+              },
+              {
+                "account_id": 22,
+                "account_name": "Bank of America- New York - Checking - 12801242353173 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -64660.83999999997
+              },
+              {
+                "account_id": 52945,
+                "account_name": "JP Morgan Chase - Cash - xxxx9911 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -63110.0
+              },
+              {
+                "account_id": 45,
+                "account_name": "HSBC Bank - Savings - xxxx2719 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -43671.30000000005
+              },
+              {
+                "account_id": 48,
+                "account_name": "American Express - Credit Card - 90361732 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -14810.66
+              },
+              {
+                "account_id": 13326,
+                "account_name": "10101 - Cash on Hand - Household - 123 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -10000.0
+              },
+              {
+                "account_id": 13487,
+                "account_name": "Bill.com - Bill Pay - xxxx - BP - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -750.0
+              },
+              {
+                "account_id": 14782,
+                "account_name": "Payee - For : Credit Card Account - AV1LEAC38636227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14788,
+                "account_name": "Overdraft Account - For : Overdraft - AV1LEAC32101227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14779,
+                "account_name": "Credit Card Account - Credit Card - xxxx4522 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 3600.0
+              },
+              {
+                "account_id": 13316,
+                "account_name": "TD Ameritrade - Cash - xxxx91288276 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 61824.99999
+              }
+            ],
+            "total": -72891013.83473372
+          }
+        ]
+      },
+      {
+        "year": 2021,
+        "period_start": "2021-01-01",
+        "period_end": "2021-12-31",
+        "total": -72891013.83473372,
+        "primary_subgroup": [
+          {
+            "title": "Cash",
+            "entity_name": "Whitmore Family Group",
+            "accounts": [
+              {
+                "account_id": 76584,
+                "account_name": "Bank OF America - Bank Accounts - xx555 - BA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -50000000.0
+              },
+              {
+                "account_id": 13342,
+                "account_name": "Goldman Sachs - Brokerage Cash - 789xxxx8788 - OA - GBP -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -14575518.97472373
+              },
+              {
+                "account_id": 392,
+                "account_name": "Fidelity - Broker Cash - xxxx1234 - CA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -4956322.260000001
+              },
+              {
+                "account_id": 74458,
+                "account_name": "Fidelity - Broker Cash - xxxx2224 - BC - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -1325000.0
+              },
+              {
+                "account_id": 97477,
+                "account_name": "Bank of Singapore - Bank - xxxx5544 - SB - SGD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -996867.3
+              },
+              {
+                "account_id": 45878,
+                "account_name": "JP Morgan Chase - Cash - xxxx8989 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -379797.5
+              },
+              {
+                "account_id": 13308,
+                "account_name": "Barclays - Brokerage Cash - xxxx 3443 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -350000.0
+              },
+              {
+                "account_id": 13324,
+                "account_name": "Morgan Stanley - Brokerage Cash - xxxx4234 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -99000.0
+              },
+              {
+                "account_id": 13403,
+                "account_name": "Cash Account - Cash - AV1LAAC84941227 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -76930.0
+              },
+              {
+                "account_id": 22,
+                "account_name": "Bank of America- New York - Checking - 12801242353173 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -64660.83999999997
+              },
+              {
+                "account_id": 52945,
+                "account_name": "JP Morgan Chase - Cash - xxxx9911 - CHK PRINT - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -63110.0
+              },
+              {
+                "account_id": 45,
+                "account_name": "HSBC Bank - Savings - xxxx2719 - SA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -43671.30000000005
+              },
+              {
+                "account_id": 48,
+                "account_name": "American Express - Credit Card - 90361732 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -14810.66
+              },
+              {
+                "account_id": 13326,
+                "account_name": "10101 - Cash on Hand - Household - 123 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -10000.0
+              },
+              {
+                "account_id": 13487,
+                "account_name": "Bill.com - Bill Pay - xxxx - BP - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": -750.0
+              },
+              {
+                "account_id": 14782,
+                "account_name": "Payee - For : Credit Card Account - AV1LEAC38636227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14788,
+                "account_name": "Overdraft Account - For : Overdraft - AV1LEAC32101227 - Liability : Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 0.0
+              },
+              {
+                "account_id": 14779,
+                "account_name": "Credit Card Account - Credit Card - xxxx4522 - CCA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 3600.0
+              },
+              {
+                "account_id": 13316,
+                "account_name": "TD Ameritrade - Cash - xxxx91288276 - OA - USD -  Bank",
+                "entity_name": "Michael R Whitmore",
+                "amount": 61824.99999
+              }
+            ],
+            "total": -72891013.83473372
+          }
+        ]
+      }
+    ],
+    "total_amount": -359819471.7750383
+  }
+}
